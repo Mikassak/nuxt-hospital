@@ -19,10 +19,9 @@ $ npm run generate
 
 
 ## Simple CRUD app
-Add, update and delete patients record. 
+`Add`, `Update` and `Delete` Patient's record. 
 
- `VUE` `NUXT` `SSH`
 
 ### `desc`
-App focusend on server-side-rendering (SSH). 
-App 
+Server-side-rendering (SSH) app. 
+Running on Nuxt.js (based on Vue.js).
