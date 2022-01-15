@@ -16,8 +16,6 @@
                 <input type="text" v-model="last_name" placeholder="last name" class="form-input">
             </div>
 
-
-
             <p class="grid-left">Alergic: </p> 
             <div class="grid-right">
                 <select v-model="alergic" class="select-box">
