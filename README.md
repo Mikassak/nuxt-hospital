@@ -23,5 +23,5 @@ $ npm run generate
 
 
 ### `desc`
-Server-side-rendering (SSH) app. 
+Server-side-rendering (SSR) app. 
 Running on Nuxt.js (based on Vue.js).
